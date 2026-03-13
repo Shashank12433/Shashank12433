@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a undergraduate student.<br>Have internship experience of 3 months.<br>Done some projects.
+Computer Science undergraduate with strong fundamentals in programming, data structures, and algorithms, and
+a growing focus on cloud computing and Google Cloud Platform (GCP). Hands-on experience through internships
+in AI/ML, web development, and data analytics. 
 
 
 ## 🌐 Socials:
